@@ -1,4 +1,5 @@
 // Write your code here!
 main.remove();
-document.createElement(h1)
+let header =document.createElement(h1);
+header.id="victory";
 let newHeader = document.querySelector('h1#victory');
